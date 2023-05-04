@@ -3,7 +3,8 @@ title: "useEffectをやめて、Suspenseを使おう"
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["React", "Suspense", "useEffect"]
-published: false
+published: true
+published_at: 2023-05-05 17:15
 ---
 
 Reactコンポーネントの開発時、データフェッチは欠かせません。
