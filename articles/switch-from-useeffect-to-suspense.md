@@ -1,6 +1,6 @@
 ---
 title: "useEffectをやめて、Suspenseを使おう"
-emoji: "✨"
+emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["React", "Suspense", "useEffect"]
 published: false
