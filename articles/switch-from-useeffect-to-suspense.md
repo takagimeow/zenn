@@ -97,7 +97,7 @@ export function Articles() {
   const [articles, setArticles] = useState<Article[]>([])
   useEffect(() => {
     (async () => {
-      const data = await fetchData2();
+      const data = await fetchData();
       setArticles(data);
       setLoading(false);
     })();
