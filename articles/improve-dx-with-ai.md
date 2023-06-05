@@ -136,15 +136,11 @@ TypeScriptはJavaScriptのスーパーセットで、JavaScriptに静的型機�
 
 変数名は通常、その変数が何を表しているかを簡単に理解できるように作成します。1万円から3万円の範囲の価値を示す変数名を作るときは、その価値が何を表すかを考慮すると良いでしょう。以下に例を示します：
 
-```typescript
-let priceInRange10000To30000: number;
-```
+`let priceInRange10000To30000: number;`
 
 この変数名は直訳すれば「10000から30000の範囲内の価格」を意味します。他の例としては:
 
-```typescript
-let valueBetween10kAnd30k: number;
-```
+`let valueBetween10kAnd30k: number;`
 
 こちらの変数名は「10kと30kの間の価値」を意味します。この変数名は少し短く、読みやすさを重視したものです。ただし、「k」が千を意味することを知らない人には理解しづらい可能性もあります。
 
